@@ -1,2 +1,2 @@
 # Deep-Learning
-This repository is the implementation of predicting pathology for X-ray images using Pytorch.
+This repository is the implementation of detecting pathology on X-ray images with Deep Learning using Pytorch.
